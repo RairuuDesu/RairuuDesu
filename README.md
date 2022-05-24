@@ -6,4 +6,4 @@ I'm currently working on a Discord Music Bot (ViieRythm) and a sort of c++ rpg g
 
 That's about it though, seeya!
 
-![Oh yeah check out pixel here.](https://github.com/PixelPasta)
+[Oh yeah check out pixel here.](https://github.com/PixelPasta)
