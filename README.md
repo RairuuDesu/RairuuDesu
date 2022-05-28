@@ -9,3 +9,5 @@ I'm learning javascript (specifically node.js) alongside making my bot!
 That's about it though, seeya!
 
 [Oh yeah check out pixel here.](https://github.com/PixelPasta)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RairuuDesu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
