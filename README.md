@@ -11,7 +11,7 @@ That's about it though, seeya!
 [Oh yeah check out pixel here.](https://github.com/PixelPasta)
 
 
-**Stats Uwu**
+**Stats uwu**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RairuuDesu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
