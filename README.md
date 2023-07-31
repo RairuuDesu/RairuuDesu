@@ -1,17 +1,10 @@
 Hi hi~
 
-I'm RairuuDesu (also goes by viie). I like to make random projects (mostly in c++). I'm also making a game in unity! I like to play Terraria, Valorant, Minecraft, and JRPG's. Massive weeb lol
+I'm a high school dumbsht who knows how to code in node.js, c++, and javascript.
 
-I'm currently working on a Discord Music Bot (ViieRythm) and a sort of c++ rpg game you can play on your terminal.
+Please send help
 
-I'm learning javascript alongside making my bot!
-
-That's about it though, seeya!
-
-[Oh yeah check out pixel here.](https://github.com/PixelPasta)
-
-
-**Stats uwu**
+**Stats**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViieDesune-RairuuDesu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
