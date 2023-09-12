@@ -1,6 +1,6 @@
 Hi hi~
 
-I'm a high school dumbsht who knows how to code in node.js, c++, and javascript.
+I'm just a high school dumbsht who knows how to code.
 
 Please send help
 
