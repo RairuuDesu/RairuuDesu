@@ -1,6 +1,6 @@
 Hi hi~
 
-I'm just a high school dumbsht who knows how to code.
+I'm a dumbass with a keyboard.
 
 Please send help
 
